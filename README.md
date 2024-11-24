@@ -1,4 +1,5 @@
 # YLib
+[![](https://jitpack.io/v/spacemex/YLib.svg)](https://jitpack.io/#spacemex/YLib)
 
 A simple and feature-rich YAML utility library for Java using SnakeYAML. This library provides easy-to-use functionality for loading, validating, and manipulating YAML files.
 
