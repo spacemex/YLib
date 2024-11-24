@@ -1,4 +1,4 @@
-# YamlAPI
+# YLib
 
 A simple and feature-rich YAML utility library for Java using SnakeYAML. This library provides easy-to-use functionality for loading, validating, and manipulating YAML files.
 
@@ -24,7 +24,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.USER:REPO:VERSION'
+    implementation 'com.github.spacemex:YLib:Tag'
 }
 ```
 
@@ -39,14 +39,14 @@ dependencies {
 
 <dependencies>
     <dependency>
-        <groupId>com.github.USER</groupId>
-        <artifactId>REPO</artifactId>
-        <version>VERSION</version>
+        <groupId>com.github.spacemex</groupId>
+        <artifactId>YLib</artifactId>
+        <version>Tag</version>
     </dependency>
 </dependencies>
 ```
 
-Replace `USER`, `REPO`, and `VERSION` with your GitHub username, repository name, and the version you want to use.
+Replace `Tag` with the version you want to use.
 
 ## Usage
 
